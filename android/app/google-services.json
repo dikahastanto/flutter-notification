@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "281035096693",
+    "project_id": "test-880ff",
+    "storage_bucket": "test-880ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281035096693:android:72b6e6b77c6f07a275ae3c",
+        "android_client_info": {
+          "package_name": "com.example.imam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281035096693-kmpspakv41md4ia3m9a1gukjftg125lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ema1fG_OzpmTXV3dqSAl1E_dEeYq2gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281035096693-kmpspakv41md4ia3m9a1gukjftg125lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281035096693:android:47d11934f0699a0f75ae3c",
+        "android_client_info": {
+          "package_name": "org.cordova.quasar.testdika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281035096693-kmpspakv41md4ia3m9a1gukjftg125lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ema1fG_OzpmTXV3dqSAl1E_dEeYq2gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281035096693-kmpspakv41md4ia3m9a1gukjftg125lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
